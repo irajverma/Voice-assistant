@@ -17,7 +17,7 @@ def speak(texts):
 
 
 def wolf(query):
-    apikey=("WKVKA2-KL2GT3YTJ6")
+    apikey=("W###############6")
     requester = wolframalpha.Client(query)
     requested = requester.query(query)
 
